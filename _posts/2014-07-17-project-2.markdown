@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Mobile aircraft cleaning service — we bring precision and excellence to your doorstep or hangar. Our expert team delivers top-notch cleaning using industry-leading products and techniques, ensuring a sparkling, shiny aircraft. Experience the convenience of a superior cleaning service without leaving the comfort of your location. Choose mobility without compromising on quality for a pristine aircraft wherever you are.
 ---
