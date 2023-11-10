@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Experience top-tier aircraft cleaning where customer satisfaction takes center stage. Our expert team ensures a sparkling, shiny exterior and interior using industry-leading products and techniques that meet aviation standards. Safety is our utmost priority, with rigorous protocols, high-touch area attention, and adherence to aviation authority guidelines. Choose our service for a meticulous and worry-free shine!
 ---
