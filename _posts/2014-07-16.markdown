@@ -3,8 +3,5 @@ layout: default
 modal-id: 3
 img: Aero.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: Since 1987 Aero Cosmetics® has been a trusted brand in the aviation industry. We are committed to only using the best products in aviation to ensure amazing results leaving your aircraft exceptionally shiny and protected.
 ---
