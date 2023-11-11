@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 modal-id: 2
 img: Truck.png
 alt: image-alt
